@@ -1,0 +1,8 @@
+﻿metric,metric_label,diffstega_stego_mean,lsb_stego_mean,mean_difference_lsb_minus_diffstega,cohens_d_lsb_vs_diffstega
+lsb_entropy,LSB entropy,0.999551,0.920857,-0.078694,-2.281028
+lsb_balance,LSB balance,0.005680,0.142028,0.136348,4.172560
+chi_square_pair,Chi-square,66.064019,2397.059669,2330.995650,2.229010
+lsb_flip_rate,LSB flip rate,0.481759,0.218334,-0.263425,-2.688155
+residual_std,Residual std,7.754891,9.687679,1.932787,0.978579
+high_freq_energy,High-frequency energy,38.862489,36.368387,-2.494102,-0.181582
+edge_density,Edge density,0.120705,0.074312,-0.046393,-0.789266

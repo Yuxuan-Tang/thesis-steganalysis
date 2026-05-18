@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Local environments and caches
+envs/
+.venv/
+venv/
+.cache/
+.tmp/
+.lo_profile*/
+docx_render_tmp/
+docx_render_check/
+rendered_*/
+lo_test/
+
+# Third-party source and model artifacts
+DiffStega/
+pretrained_models/
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# Large/generated experiment outputs
+experiments/diffstega_outputs*/
+experiments/lsb_outputs/
+experiments/inputs*/
+experiments/analysis/
+experiments/analysis_hq/
+experiments/analysis_hq_ext/
+
+# Office temp files
+~$*
+*.tmp
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

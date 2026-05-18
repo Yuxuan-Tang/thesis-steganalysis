@@ -1,0 +1,9 @@
+﻿case,label,stego_psnr,stego_ssim,correct_psnr,correct_ssim,wrong_psnr,wrong_ssim,key_security_gap
+hq_ext_sk_astronaut_sk_astronaut,astronaut,17.7655,0.911277,20.3349,0.953115,16.7323,0.886523,0.066592
+hq_ext_sk_camera_sk_camera,camera,20.1470,0.935432,22.4791,0.966508,19.9309,0.932698,0.033810
+hq_ext_sk_cat_sk_cat,cat,21.0230,0.742639,26.3232,0.939071,20.3439,0.714260,0.224811
+hq_ext_sk_coffee_sk_coffee,coffee,22.4476,0.955141,24.4517,0.975319,22.4530,0.954684,0.020635
+hq_ext_sk_horse_sk_horse,horse,21.4534,0.984998,20.8187,0.984385,20.8477,0.983785,0.000600
+hq_ext_sk_hubble_sk_hubble,hubble,21.7612,0.715960,19.4956,0.672828,21.2898,0.700002,-0.027174
+hq_ext_sk_retina_sk_retina,retina,25.2378,0.973000,22.9995,0.950300,24.7309,0.969131,-0.018831
+hq_ext_sk_rocket_sk_rocket,rocket,24.9126,0.904415,25.1666,0.926779,24.1604,0.881848,0.044931

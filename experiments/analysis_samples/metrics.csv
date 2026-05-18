@@ -1,0 +1,29 @@
+﻿case,comparison,reference,candidate,psnr,ssim,mae,rmse
+content_boar_000000132622,stego,D:\thesis\experiments\diffstega_outputs\content_boar\000000132622.png,D:\thesis\experiments\diffstega_outputs\content_boar\000000132622_hide_pw_1000.png,21.1940,0.924096,14.7486,22.2249
+content_boar_000000132622,correct recover,D:\thesis\experiments\diffstega_outputs\content_boar\000000132622.png,D:\thesis\experiments\diffstega_outputs\content_boar\000000132622_rec_w_1000.png,23.0159,0.953320,11.9550,18.0196
+content_boar_000000132622,wrong recover,D:\thesis\experiments\diffstega_outputs\content_boar\000000132622.png,D:\thesis\experiments\diffstega_outputs\content_boar\000000132622_rec_wo_1000.png,20.9253,0.922435,15.5780,22.9232
+param_es_050_00079,stego,D:\thesis\experiments\diffstega_outputs\param_es_050\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_050\00079_hide_pw_2000.png,23.3697,0.969836,11.4844,17.3003
+param_es_050_00079,correct recover,D:\thesis\experiments\diffstega_outputs\param_es_050\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_050\00079_rec_w_2000.png,24.9411,0.981216,9.9099,14.4373
+param_es_050_00079,wrong recover,D:\thesis\experiments\diffstega_outputs\param_es_050\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_050\00079_rec_wo_2000.png,22.2820,0.962786,13.4027,19.6084
+param_es_060_00079,stego,D:\thesis\experiments\diffstega_outputs\param_es_060\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_060\00079_hide_pw_2000.png,22.3792,0.960685,12.5833,19.3901
+param_es_060_00079,correct recover,D:\thesis\experiments\diffstega_outputs\param_es_060\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_060\00079_rec_w_2000.png,25.5507,0.982798,9.1086,13.4588
+param_es_060_00079,wrong recover,D:\thesis\experiments\diffstega_outputs\param_es_060\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_060\00079_rec_wo_2000.png,22.0738,0.958877,13.3367,20.0839
+param_es_070_00079,stego,D:\thesis\experiments\diffstega_outputs\param_es_070\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_070\00079_hide_pw_2000.png,21.3390,0.949238,14.4188,21.8570
+param_es_070_00079,correct recover,D:\thesis\experiments\diffstega_outputs\param_es_070\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_070\00079_rec_w_2000.png,23.7641,0.975026,11.2763,16.5323
+param_es_070_00079,wrong recover,D:\thesis\experiments\diffstega_outputs\param_es_070\00079.png,D:\thesis\experiments\diffstega_outputs\param_es_070\00079_rec_wo_2000.png,21.4358,0.952121,14.8984,21.6147
+param_nf_003_00079,stego,D:\thesis\experiments\diffstega_outputs\param_nf_003\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_003\00079_hide_pw_2000.png,24.0795,0.975593,10.5211,15.9429
+param_nf_003_00079,correct recover,D:\thesis\experiments\diffstega_outputs\param_nf_003\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_003\00079_rec_w_2000.png,25.9470,0.984776,8.6995,12.8585
+param_nf_003_00079,wrong recover,D:\thesis\experiments\diffstega_outputs\param_nf_003\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_003\00079_rec_wo_2000.png,23.4203,0.972462,11.6001,17.1999
+param_nf_005_00079,stego,D:\thesis\experiments\diffstega_outputs\param_nf_005\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_005\00079_hide_pw_2000.png,22.3792,0.960685,12.5833,19.3901
+param_nf_005_00079,correct recover,D:\thesis\experiments\diffstega_outputs\param_nf_005\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_005\00079_rec_w_2000.png,25.5507,0.982798,9.1086,13.4588
+param_nf_005_00079,wrong recover,D:\thesis\experiments\diffstega_outputs\param_nf_005\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_005\00079_rec_wo_2000.png,22.0738,0.958877,13.3367,20.0839
+param_nf_008_00079,stego,D:\thesis\experiments\diffstega_outputs\param_nf_008\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_008\00079_hide_pw_2000.png,21.4183,0.951463,14.3706,21.6583
+param_nf_008_00079,correct recover,D:\thesis\experiments\diffstega_outputs\param_nf_008\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_008\00079_rec_w_2000.png,25.5063,0.982208,9.3334,13.5278
+param_nf_008_00079,wrong recover,D:\thesis\experiments\diffstega_outputs\param_nf_008\00079.png,D:\thesis\experiments\diffstega_outputs\param_nf_008\00079_rec_wo_2000.png,21.6172,0.955626,14.4167,21.1681
+similar_face_00079,stego,D:\thesis\experiments\diffstega_outputs\similar_face\00079.png,D:\thesis\experiments\diffstega_outputs\similar_face\00079_hide_pw_2000.png,22.3792,0.960685,12.5833,19.3901
+similar_face_00079,correct recover,D:\thesis\experiments\diffstega_outputs\similar_face\00079.png,D:\thesis\experiments\diffstega_outputs\similar_face\00079_rec_w_2000.png,25.5507,0.982798,9.1086,13.4588
+similar_face_00079,wrong recover,D:\thesis\experiments\diffstega_outputs\similar_face\00079.png,D:\thesis\experiments\diffstega_outputs\similar_face\00079_rec_wo_2000.png,22.0738,0.958877,13.3367,20.0839
+style_dog_flickr_dog_000054,stego,D:\thesis\experiments\diffstega_outputs\style_dog\flickr_dog_000054.png,D:\thesis\experiments\diffstega_outputs\style_dog\flickr_dog_000054_hide_pw_205572.png,19.1086,0.920253,20.2440,28.2560
+style_dog_flickr_dog_000054,correct recover,D:\thesis\experiments\diffstega_outputs\style_dog\flickr_dog_000054.png,D:\thesis\experiments\diffstega_outputs\style_dog\flickr_dog_000054_rec_w_205572.png,23.2901,0.972421,12.2928,17.4595
+style_dog_flickr_dog_000054,wrong recover,D:\thesis\experiments\diffstega_outputs\style_dog\flickr_dog_000054.png,D:\thesis\experiments\diffstega_outputs\style_dog\flickr_dog_000054_rec_wo_205572.png,19.5844,0.929831,19.1490,26.7498
+lsb_secret_on_landscape,lsb cover-vs-stego,D:\thesis\experiments\lsb_outputs\lsb_secret_on_landscape_cover.png,D:\thesis\experiments\lsb_outputs\lsb_secret_on_landscape_lsb_stego.png,55.5569,0.999991,0.1809,0.4253
